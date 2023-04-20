@@ -1,2 +1,2 @@
 # FridgeNoWaste
-FridgeNoWaste: Never let food go to waste again!
+fridge-no-waste: Never let food go to waste again!
