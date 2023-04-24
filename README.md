@@ -8,8 +8,6 @@
 [![License](https://img.shields.io/badge/license-MIT-blue?logo=openjdk&logoColor=white)](https://github.com/BoboTheKnight/fridge-no-waste/blob/master/LICENSE)
 &nbsp;
 [![GitHub Contributors](https://img.shields.io/github/contributors/alibaba/fastjson2)](https://github.com/BoboTheKnight/fridge-no-waste/graphs/contributors)
-/codecov/c/:vcsName/:user/:repo?flag=flag_name&token=a1b2c3d4e5
-
 
 [![zh-cn](https://img.shields.io/badge/lang-zh--cn-orange.svg)](https://github.com/BoboTheKnight/fridge-no-waste/blob/master/README-zh.md)
 
@@ -17,5 +15,3 @@ FridgeNoWaste: Never let food go to waste again!
 
 ---
 ## What the project does
-
-
