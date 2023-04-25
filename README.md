@@ -15,7 +15,7 @@
 FridgeNoWaste is a web and mobile application aimed at helping people reduce food waste by keeping track of the contents of their fridge and suggesting recipes based on those contents.
 
 <!-- TOC -->
-#### Table of Contents
+## Table of Contents
  * [Features](#features)
  * [Technologies](#technologies)
  * [Installation](#installation)
@@ -28,10 +28,13 @@ FridgeNoWaste is a web and mobile application aimed at helping people reduce foo
 - [ ] Allows users to create an account and add their fridge contents.
 - [ ] Enables users to input their fridge contents by scanning barcodes or using OCR technology to make the process easier.
 - [ ] Displays the expiration dates of the items in the user's fridge and sends reminders before the food expires.
+- [ ] Supports multiple languages.
+- [ ] Provide a list of foods added in history to simplify the operation process.
 - [ ] Provides information on how to store different types of food to prolong their shelf life.
-- [ ] Suggests recipes based on the contents of the user's fridge, supporting multiple recipes and multiple languages.
+- [ ] Suggests recipes based on the contents of the user's fridge.
+- [ ] Supporting multiple recipes.
 - [ ] Allows users to search for recipes by ingredients and save their favorite recipes.
-- [ ] Allows users to create a home and connect with other home members to share fridge contents and recipe ideas.
+- [ ] Allows users to create a home, manage home members, and share refrigerator contents with other home members. 
 - [ ] Builds rewards to encourage users to keep track of their fridges and reduce food waste.
 - [ ] Generates statistics about how much food users are saving and their contribution to reducing food waste.
 
