@@ -1,4 +1,3 @@
-# FridgeNoWaste
 [![Java CI](https://img.shields.io/github/actions/workflow/status/BoboTheKnight/fridge-no-waste/ci.yml?branch=master&logo=github)](https://github.com/BoboTheKnight/fridge-no-waste/actions/workflows/ci.yml)
 &nbsp;
 [![Codecov](https://img.shields.io/codecov/c/github/BoboTheKnight/fridge-no-waste/master?logo=codecov&logoColor=white)](https://codecov.io/gh/alibaba/fastjson2/branch/main)
@@ -9,9 +8,10 @@
 &nbsp;
 [![GitHub Contributors](https://img.shields.io/github/contributors/BoboTheKnight/fridge-no-waste)](https://github.com/BoboTheKnight/fridge-no-waste/graphs/contributors)
 
-[![zh-cn](https://img.shields.io/badge/lang-zh--cn-orange.svg)](https://github.com/BoboTheKnight/fridge-no-waste/blob/master/README-zh.md)
+##### 📖 English Documentation | 📖 [中文文档]((https://github.com/BoboTheKnight/fridge-no-waste/blob/master/README-zh.md))
 
-
+FridgeNoWaste: Keep food from being wasted!
+---
 FridgeNoWaste is a web and mobile application aimed at helping people reduce food waste by keeping track of the contents of their fridge and suggesting recipes based on those contents.
 
 <!-- TOC -->
