@@ -34,6 +34,7 @@ jobs:
           distribution: zulu
           java-version: 8
           cache: maven
+      - run: cd ./server
       - name: Install dependencies
         run: mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
       - name: Run tests and collect coverage
