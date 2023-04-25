@@ -2,9 +2,9 @@
 &nbsp;
 [![Codecov](https://img.shields.io/codecov/c/github/BoboTheKnight/fridge-no-waste/master?logo=codecov&logoColor=white)](https://codecov.io/gh/alibaba/fastjson2/branch/main)
 &nbsp;
-[![Java support](https://img.shields.io/badge/Java-8+-green)](https://openjdk.java.net/)
+[![Java support](https://img.shields.io/badge/Java-8+-blue)](https://openjdk.java.net/)
 &nbsp;
-[![License](https://img.shields.io/badge/license-MIT-blue?logo=opensourceinitiative&logoColor=white)](https://github.com/BoboTheKnight/fridge-no-waste/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/BoboTheKnight/fridge-no-waste?logo=opensourceinitiative&logoColor=white)](https://github.com/BoboTheKnight/fridge-no-waste/blob/master/LICENSE)
 &nbsp;
 [![GitHub Contributors](https://img.shields.io/github/contributors/BoboTheKnight/fridge-no-waste)](https://github.com/BoboTheKnight/fridge-no-waste/graphs/contributors)
 
@@ -65,7 +65,7 @@ npm start
 
 To start the React Native mobile application, run the following commands in another terminal:
 ```bash
-cd fridge-no-waste/mobile
+cd fridge-no-waste/android
 npm install
 npx react-native run-android
 ```
