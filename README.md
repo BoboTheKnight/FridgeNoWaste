@@ -8,7 +8,7 @@
 &nbsp;
 [![GitHub Contributors](https://img.shields.io/github/contributors/BoboTheKnight/fridge-no-waste)](https://github.com/BoboTheKnight/fridge-no-waste/graphs/contributors)
 
-##### 📖 English Documentation | 📖 [中文文档]((https://github.com/BoboTheKnight/fridge-no-waste/blob/master/README-zh.md))
+##### 📖 English Documentation | 📖 [中文文档](https://github.com/BoboTheKnight/fridge-no-waste/blob/master/README-zh.md)
 
 FridgeNoWaste: Keep food from being wasted!
 ---
