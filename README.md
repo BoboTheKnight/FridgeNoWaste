@@ -37,6 +37,7 @@ FridgeNoWaste is a web and mobile application aimed at helping people reduce foo
 - [ ] Allows users to create a home, manage home members, and share refrigerator contents with other home members. 
 - [ ] Builds rewards to encourage users to keep track of their fridges and reduce food waste.
 - [ ] Generates statistics about how much food users are saving and their contribution to reducing food waste.
+- [ ] Recipe recommendations based on ingredients in the refrigerator.
 
 ### Technologies
 The FridgeNoWaste project uses the following technologies:
